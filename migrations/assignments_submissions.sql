@@ -14,3 +14,4 @@ duration INTEGER,
 submission_date DATE
 );
 SELECT count(*) FROM assignment_submissions;
+
